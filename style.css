@@ -1,0 +1,57 @@
+
+.post{
+    border:2px solid;
+    height: 570px;
+    width: 500px;
+    margin: auto;
+    margin-top: 15%;
+    background-color: white;
+}
+img {
+   width: 100%;
+}
+#posthead{
+    display: flex;
+}
+body{
+    background-color: white;
+}
+.yes{
+    margin-right:350px;
+    margin-bottom: 0;
+}
+.symbols{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.symbols p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#down{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#top{
+    font-family: 'Roboto', sans-serif;
+    margin-right: 4%;
+}
+#tops{
+    margin-top: 25px;
+    margin-left:15px;
+    margin-right: 8px;
+}
+#elipsis{
+    margin-top: 20px;  
+}
+.symbols :nth-child(4){
+    margin-left: 73%;
+}
+#top: :nth-child(2){
+    margin-top:0px;
+}
+.name{
+    margin-top: 0px;
+}
